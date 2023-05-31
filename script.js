@@ -1,4 +1,3 @@
-//your JS code here. If required.
 const hamburger = document.querySelector('.hamburger');
 const navLinks = document.querySelector('.nav-links');
 
